@@ -2,13 +2,14 @@
 Welcome to the Data Warehouse and Analytics Project repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-
+---
 ## Data Architecture
 ![Data Architecture](Data Architecture Diagaram.drawio.pdf)
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+---
 ## Project Overview
 This project involves:
 
@@ -25,9 +26,11 @@ ETL Pipeline Developer
 Data Modeling
 Data Analytics
 
+---
 ## Important Links
 ![Notion](https://www.notion.so/DATA-WAREHOUSE-PROJECT-35ba4da43fcc80f182e0dfcf30932bd0?source=copy_link)
 
+---
 ## Project Requirment
 Building the Data Warehouse (Data Engineering)
 Objective
@@ -43,12 +46,15 @@ BI: Analytics & Reporting (Data Analysis)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
+### Customer Behavior
+### Product Performance
+### Sales Trends
+
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+---
 ## Reprosatory structure 
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -72,3 +78,4 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
+```
