@@ -4,7 +4,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 ## Data Architecture
-![Data Architecture](docs/Data Architecture Diagaram.png)
+![Data Architecture](docs/Data%20Architecture%20Diagaram.png)
 
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
