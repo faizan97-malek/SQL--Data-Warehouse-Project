@@ -188,7 +188,7 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 
 Hi, I'm **Faizan Farid** — a data analytics professional with a background in education and a passion for turning raw data into meaningful insights.
 
-I hold a **Master of Science in Mathematics** and a **Bachelor of Education**, and I'm currently completing a **Master of Data Analytics** at the University of Niagara Falls Canada. My journey from teaching mathematics and science to data engineering has given me a unique ability to break down complex technical concepts and communicate them clearly.
+I hold a **Master of Science in Mathematics** and a **Bachelor of Education**, and I'm recently completed a **Master of Data Analytics** at the University of Niagara Falls Canada. My journey from teaching mathematics and science to data Analysis has given me a unique ability to break down complex technical concepts and communicate them clearly.
 
 This project reflects my hands-on approach to learning — building a production-style data warehouse from scratch using industry best practices in ETL pipeline development, data modeling, and SQL-based analytics.
 
